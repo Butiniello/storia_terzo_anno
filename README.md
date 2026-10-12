@@ -1,6 +1,6 @@
 # Storia – Terzo anno
 
-Materiali didattici di storia per il terzo anno: immagini, carte e mappe interattive, organizzati per capitolo.
+Materiali didattici di storia per il terzo anno, organizzati per capitolo.
 
 ## Capitoli
 
