@@ -135,9 +135,29 @@ ol.wl li:hover{background:rgba(255,255,255,.1)}ol.wl li.on{background:rgba(242,1
 body.ready #loading{opacity:0;pointer-events:none}
 @media (max-width:1000px){#panel{width:190px}#year{font-size:40px;min-width:90px}#rightcol{width:min(340px,44vw)}}
 @media (max-height:700px){#panel{max-height:calc(100% - 210px)}#headline{font-size:15px}}
+/*MOBILE-FIX*/
+@media (max-width:700px){
+#title{top:56px;left:8px;padding:4px 10px;border-radius:10px}#title h1{font-size:17px}#title p{display:none}
+#uibar{top:8px;left:8px;right:8px;transform:none;gap:4px}
+#uibar button{flex:1;min-width:0;height:42px;padding:0 2px;font-size:13px;border-radius:21px}
+#panel{left:8px;right:8px;top:104px;width:auto;max-height:calc(100% - 270px)}
+#rightcol,#rightcol.wide{left:8px;right:8px;top:104px;width:auto;max-height:calc(100% - 270px)}
+#timebar{left:6px;right:6px;bottom:6px;padding:8px 10px;grid-template-columns:1fr;gap:2px;border-radius:16px}
+#yr{justify-content:flex-start}
+#yr{gap:6px;padding-right:0}#yr button{width:44px;height:44px;flex:none}#timebar .xb{top:4px;right:4px;width:32px;height:32px;font-size:18px;z-index:3}#timebar,#tmid,#share{min-width:0;max-width:100%;box-sizing:border-box}#year{font-size:32px;min-width:76px}#share{flex-wrap:wrap}#pcs{white-space:normal;flex-wrap:wrap;gap:2px 8px}#bar{flex:1 1 100%}#coal{display:none}
+#headline{font-size:14px;min-height:36px}
+#share{font-size:12px;gap:8px}#pcs{gap:8px}
+#ticks{font-size:11px}
+.tg{min-height:44px}.vw button{min-height:44px;font-size:14px}
+.xb,#cardClose{width:40px;height:40px;font-size:22px}
+#card{padding:14px 14px 16px}#card h2{font-size:24px}
+.lgg{grid-template-columns:1fr}
+input[type=range]{height:10px}
+}
+@media (pointer:coarse){.xb,#cardClose,#yr button,.pb{min-width:40px;min-height:40px}.tg,.vw button{min-height:44px}#uibar button{height:42px}}
 </style>
 </head>
-<body>
+<body><script>if(Math.min(innerWidth,innerHeight)<700||innerWidth<700)document.body.classList.add('h-panel','h-legend');</script>
 <div id="app">
   <div id="stage"><div id="scene"><canvas id="cv"></canvas><canvas id="cv2"></canvas><canvas id="ov"></canvas><svg id="svg"></svg><div id="labels"></div><div id="markers"></div></div></div>
   <header id="title"><h1>L'Europa di Napoleone</h1><p>1796–1815 · trascina = sposta · rotella = zoom</p></header>
