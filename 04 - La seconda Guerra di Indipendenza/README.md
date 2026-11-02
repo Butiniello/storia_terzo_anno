@@ -40,6 +40,10 @@
 
 [![Garibaldi a Marsala](08%20-%20Garibaldi%20a%20Marsala.png)](08%20-%20Garibaldi%20a%20Marsala.png)
 
+### L'Italia nel 1860
+
+[![L'Italia nel 1860](08%20-%20L%27Italia%20nel%201860.jpg)](08%20-%20L%27Italia%20nel%201860.jpg)
+
 ### Incontro Teano
 
 [![Incontro Teano](09%20-%20Incontro%20Teano.jpg)](09%20-%20Incontro%20Teano.jpg)
