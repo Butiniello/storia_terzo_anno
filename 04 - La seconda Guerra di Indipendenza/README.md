@@ -8,9 +8,13 @@
 
 [![Guerra di Crimea](00%20-%20Guerra%20di%20Crimea.jpg)](00%20-%20Guerra%20di%20Crimea.jpg)
 
-### Satira - Don Abbondio-Cavour; Renzo-Piemonte; Lucia-Italia; Napoleone-Rodrigo
+### L'Italia nel 1843
 
-[![Satira - Don Abbondio-Cavour; Renzo-Piemonte; Lucia-Italia; Napoleone-Rodrigo](01%20-%20Satira%20-%20Don%20Abbondio-Cavour%3B%20Renzo-Piemonte%3B%20Lucia-Italia%3B%20Napoleone-Rodrigo.jpg)](01%20-%20Satira%20-%20Don%20Abbondio-Cavour%3B%20Renzo-Piemonte%3B%20Lucia-Italia%3B%20Napoleone-Rodrigo.jpg)
+[![L'Italia nel 1843](00%20-%20L%27Italia%20nel%201843.jpg)](00%20-%20L%27Italia%20nel%201843.jpg)
+
+### Don Abbondio (Cavour); Renzo (Piemonte); Lucia (Italia); Napoleone (Rodrigo)
+
+[![Don Abbondio (Cavour); Renzo (Piemonte); Lucia (Italia); Napoleone (Rodrigo)](01%20-%20Don%20Abbondio%20%28Cavour%29%3B%20Renzo%20%28Piemonte%29%3B%20Lucia%20%28Italia%29%3B%20Napoleone%20%28Rodrigo%29.jpg)](01%20-%20Don%20Abbondio%20%28Cavour%29%3B%20Renzo%20%28Piemonte%29%3B%20Lucia%20%28Italia%29%3B%20Napoleone%20%28Rodrigo%29.jpg)
 
 ### Napoleone III sbarca in Italia
 
@@ -42,8 +46,8 @@
 
 ### L'Italia nel 1860
 
-[![L'Italia nel 1860](08%20-%20L%27Italia%20nel%201860.jpg)](08%20-%20L%27Italia%20nel%201860.jpg)
+[![L'Italia nel 1860](09%20-%20L%27Italia%20nel%201860.jpg)](09%20-%20L%27Italia%20nel%201860.jpg)
 
 ### Incontro Teano
 
-[![Incontro Teano](09%20-%20Incontro%20Teano.jpg)](09%20-%20Incontro%20Teano.jpg)
+[![Incontro Teano](10%20-%20Incontro%20Teano.jpg)](10%20-%20Incontro%20Teano.jpg)

@@ -4,10 +4,6 @@
 
 ## Immagini
 
-### L'Italia nel 1843
-
-[![L'Italia nel 1843](00%20-%20L%27Italia%20nel%201843.jpg)](00%20-%20L%27Italia%20nel%201843.jpg)
-
 ### Parigi 1848
 
 [![Parigi 1848](01%20-%20Parigi%201848.jpg)](01%20-%20Parigi%201848.jpg)
