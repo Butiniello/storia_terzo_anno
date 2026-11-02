@@ -4,6 +4,10 @@
 
 ## Immagini
 
+### 1848. L'Europa in rivolta
+
+[![1848. L'Europa in rivolta](00%20-%201848.%20L%27Europa%20in%20rivolta.png)](00%20-%201848.%20L%27Europa%20in%20rivolta.png)
+
 ### Parigi 1848
 
 [![Parigi 1848](01%20-%20Parigi%201848.jpg)](01%20-%20Parigi%201848.jpg)
