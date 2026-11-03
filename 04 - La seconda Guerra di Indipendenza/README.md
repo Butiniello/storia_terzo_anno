@@ -51,3 +51,11 @@
 ### Incontro Teano
 
 [![Incontro Teano](10%20-%20Incontro%20Teano.jpg)](10%20-%20Incontro%20Teano.jpg)
+
+### Regno di Italia (1861)
+
+[![Regno di Italia (1861)](11%20-%20Regno%20di%20Italia%20%281861%29.jpg)](11%20-%20Regno%20di%20Italia%20%281861%29.jpg)
+
+### Bandiera del Regno di Italia
+
+[![Bandiera del Regno di Italia](12%20-%20Bandiera%20del%20Regno%20di%20Italia.jpg)](12%20-%20Bandiera%20del%20Regno%20di%20Italia.jpg)
