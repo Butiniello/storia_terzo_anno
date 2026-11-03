@@ -8,10 +8,6 @@
 - [Il RISORGIMENTO 2 - Cavour, Vittorio Emanuele e il 1859 (Word)](Appunti/Il%20RISORGIMENTO%202%20-%20Cavour%2C%20Vittorio%20Emanuele%20e%20il%201859.docx)
 - [Il RISORGIMENTO 3 - Il 1866 (Word)](Appunti/Il%20RISORGIMENTO%203%20-%20Il%201866.docx)
 
-## Video
-
-- [Il RISORGIMENTO - Raccontato da Alessandro Barbero [2021] (video)](Appunti/Il%20RISORGIMENTO%20-%20Raccontato%20da%20Alessandro%20Barbero%20%5B2021%5D.mp4)
-
 ## Immagini
 
 ### Guerra di Crimea
