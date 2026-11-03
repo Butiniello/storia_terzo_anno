@@ -2,6 +2,14 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Documenti
+
+- [Testimonianze (Word)](Testimonianze.docx)
+
+## Video
+
+- [La Prima Guerra di Indipendenza (video)](07%20-%20La%20Prima%20Guerra%20di%20Indipendenza.mp4)
+
 ## Immagini
 
 ### 1848. L'Europa in rivolta

@@ -2,6 +2,16 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Documenti
+
+- [Il RISORGIMENTO 1 - Il 1848 (Word)](Appunti/Il%20RISORGIMENTO%201%20-%20Il%201848.docx)
+- [Il RISORGIMENTO 2 - Cavour, Vittorio Emanuele e il 1859 (Word)](Appunti/Il%20RISORGIMENTO%202%20-%20Cavour%2C%20Vittorio%20Emanuele%20e%20il%201859.docx)
+- [Il RISORGIMENTO 3 - Il 1866 (Word)](Appunti/Il%20RISORGIMENTO%203%20-%20Il%201866.docx)
+
+## Video
+
+- [Il RISORGIMENTO - Raccontato da Alessandro Barbero [2021] (video)](Appunti/Il%20RISORGIMENTO%20-%20Raccontato%20da%20Alessandro%20Barbero%20%5B2021%5D.mp4)
+
 ## Immagini
 
 ### Guerra di Crimea
@@ -36,9 +46,9 @@
 
 [![San Martino - Napoleone III e Vittorio Emanuele II [24 giugno 1859][Lago di Garda]](06%20-%20San%20Martino%20-%20Napoleone%20III%20e%20Vittorio%20Emanuele%20II%20%5B24%20giugno%201859%5D%5BLago%20di%20Garda%5D.jpg)](06%20-%20San%20Martino%20-%20Napoleone%20III%20e%20Vittorio%20Emanuele%20II%20%5B24%20giugno%201859%5D%5BLago%20di%20Garda%5D.jpg)
 
-### Armistizio Villafranca
+### Armistizio Villafranca [11 luglio 1859]
 
-[![Armistizio Villafranca](07%20-%20Armistizio%20Villafranca.jpg)](07%20-%20Armistizio%20Villafranca.jpg)
+[![Armistizio Villafranca [11 luglio 1859]](07%20-%20Armistizio%20Villafranca%20%5B11%20luglio%201859%5D.jpg)](07%20-%20Armistizio%20Villafranca%20%5B11%20luglio%201859%5D.jpg)
 
 ### Garibaldi a Marsala
 
