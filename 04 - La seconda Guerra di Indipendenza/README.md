@@ -2,12 +2,6 @@
 
 [⬅ Torna all'indice](../README.md)
 
-## Documenti
-
-- [Il RISORGIMENTO 1 - Il 1848 (Word)](Appunti/Il%20RISORGIMENTO%201%20-%20Il%201848.docx)
-- [Il RISORGIMENTO 2 - Cavour, Vittorio Emanuele e il 1859 (Word)](Appunti/Il%20RISORGIMENTO%202%20-%20Cavour%2C%20Vittorio%20Emanuele%20e%20il%201859.docx)
-- [Il RISORGIMENTO 3 - Il 1866 (Word)](Appunti/Il%20RISORGIMENTO%203%20-%20Il%201866.docx)
-
 ## Immagini
 
 ### Guerra di Crimea
