@@ -16,9 +16,9 @@
 
 [![Impero austro-ungarico](03%20-%20Impero%20austro-ungarico.png)](03%20-%20Impero%20austro-ungarico.png)
 
-### Bersaglieri Porta Pia
+### Michele Cammarano, Bersaglieri Porta Pia
 
-[![Bersaglieri Porta Pia](04%20-%20Bersaglieri%20Porta%20Pia.jpg)](04%20-%20Bersaglieri%20Porta%20Pia.jpg)
+[![Michele Cammarano, Bersaglieri Porta Pia](04%20-%20Michele%20Cammarano%2C%20Bersaglieri%20Porta%20Pia.jpg)](04%20-%20Michele%20Cammarano%2C%20Bersaglieri%20Porta%20Pia.jpg)
 
 ### Giornale breccia Porta Pia
 
