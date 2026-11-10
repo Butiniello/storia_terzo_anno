@@ -2,6 +2,10 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Documenti
+
+- [Testimonianze (Word)](Testimonianze.docx)
+
 ## Immagini
 
 ### 1848. L'Europa in rivolta
