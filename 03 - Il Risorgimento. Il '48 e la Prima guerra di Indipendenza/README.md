@@ -4,7 +4,7 @@
 
 ## Documenti
 
-- [Testimonianze (Word)](Testimonianze.docx)
+- [Testimonianze (PDF)](Testimonianze.pdf)
 
 ## Immagini
 
