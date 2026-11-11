@@ -8,9 +8,9 @@
 
 [![Dal regno di Prussia all'Impero tedesco](00%20-%20Dal%20regno%20di%20Prussia%20all%27Impero%20tedesco.webp)](00%20-%20Dal%20regno%20di%20Prussia%20all%27Impero%20tedesco.webp)
 
-### Espansionismo prussiamo 1807-1871
+### Espansionismo prussiano 1807-1871
 
-[![Espansionismo prussiamo 1807-1871](01%20-%20Espansionismo%20prussiamo%201807-1871.jpg)](01%20-%20Espansionismo%20prussiamo%201807-1871.jpg)
+[![Espansionismo prussiano 1807-1871](01%20-%20Espansionismo%20prussiano%201807-1871.jpg)](01%20-%20Espansionismo%20prussiano%201807-1871.jpg)
 
 ### Confederazione germanica
 
