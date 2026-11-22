@@ -4,18 +4,22 @@
 
 ## Immagini
 
-### Pio IX contro Unità
-
-[![Pio IX contro Unità](01%20-%20Pio%20IX%20contro%20Unit%C3%A0.jpg)](01%20-%20Pio%20IX%20contro%20Unit%C3%A0.jpg)
-
 ### Italia tassa sul macinato
 
-[![Italia tassa sul macinato](03%20-%20Italia%20tassa%20sul%20macinato.jpg)](03%20-%20Italia%20tassa%20sul%20macinato.jpg)
+[![Italia tassa sul macinato](01%20-%20Italia%20tassa%20sul%20macinato.jpg)](01%20-%20Italia%20tassa%20sul%20macinato.jpg)
 
-### COLLECTIE TROPENMUSEUM De slag bij Adua TMnr 5956-2
+### Pio IX contro l'Unità
 
-[![COLLECTIE TROPENMUSEUM De slag bij Adua TMnr 5956-2](COLLECTIE_TROPENMUSEUM_De_slag_bij_Adua_TMnr_5956-2.jpg)](COLLECTIE_TROPENMUSEUM_De_slag_bij_Adua_TMnr_5956-2.jpg)
+[![Pio IX contro l'Unità](02%20-%20Pio%20IX%20contro%20l%27Unit%C3%A0.jpg)](02%20-%20Pio%20IX%20contro%20l%27Unit%C3%A0.jpg)
 
 ### Depretis e il trasformismo
 
-[![Depretis e il trasformismo](Depretis_e_il_trasformismo.png)](Depretis_e_il_trasformismo.png)
+[![Depretis e il trasformismo](03%20-%20Depretis%20e%20il%20trasformismo.png)](03%20-%20Depretis%20e%20il%20trasformismo.png)
+
+### Depretis, il funambolo del Trasformismo
+
+[![Depretis, il funambolo del Trasformismo](04%20-%20Depretis%2C%20il%20funambolo%20del%20Trasformismo.png)](04%20-%20Depretis%2C%20il%20funambolo%20del%20Trasformismo.png)
+
+### Crispi e la battaglia di Adua (1896)
+
+[![Crispi e la battaglia di Adua (1896)](05%20-%20Crispi%20e%20la%20battaglia%20di%20Adua%20%281896%29.png)](05%20-%20Crispi%20e%20la%20battaglia%20di%20Adua%20%281896%29.png)
