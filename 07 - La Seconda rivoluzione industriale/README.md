@@ -6,7 +6,7 @@
 
 ### Electricine. Éclairage de luxe di Lucien Lefèvre (1897) Pubblciità lampade ad olio
 
-[![Electricine. Éclairage de luxe di Lucien Lefèvre (1897) Pubblciità lampade ad olio](01%20-%20Electricine.%20%C3%89clairage%20de%20luxe%20di%20Lucien%20Lef%C3%A8vre%20%281897%29%20Pubblciit%C3%A0%20lampade%20ad%20olio.jpg)](01%20-%20Electricine.%20%C3%89clairage%20de%20luxe%20di%20Lucien%20Lef%C3%A8vre%20%281897%29%20Pubblciit%C3%A0%20lampade%20ad%20olio.jpg)
+[![Electricine. Éclairage de luxe di Lucien Lefèvre (1897) Pubblciità lampade ad olio](01%20-%20Electricine.%20%C3%89clairage%20de%20luxe%20di%20Lucien%20Lef%C3%A8vre%20%281897%29%20Pubblciit%C3%A0%20lampade%20ad%20olio.png)](01%20-%20Electricine.%20%C3%89clairage%20de%20luxe%20di%20Lucien%20Lef%C3%A8vre%20%281897%29%20Pubblciit%C3%A0%20lampade%20ad%20olio.png)
 
 ### Camille Pissarro, Boulevard Montmartre, effetto notte (1897, National Gallery, Londra)
 
@@ -46,7 +46,7 @@
 
 ### Ruota panoramica Ferris (Chicago 1893)
 
-[![Ruota panoramica Ferris (Chicago 1893)](11%20-%20Ruota%20panoramica%20Ferris%20%28Chicago%201893%29.jpg)](11%20-%20Ruota%20panoramica%20Ferris%20%28Chicago%201893%29.jpg)
+[![Ruota panoramica Ferris (Chicago 1893)](11%20-%20Ruota%20panoramica%20Ferris%20%28Chicago%201893%29.png)](11%20-%20Ruota%20panoramica%20Ferris%20%28Chicago%201893%29.png)
 
 ### Titanic (1911)
 
@@ -58,7 +58,7 @@
 
 ### Fratelli Lumières. Cinematografo (1895)
 
-[![Fratelli Lumières. Cinematografo (1895)](14%20-%20Fratelli%20Lumi%C3%A8res.%20Cinematografo%20%281895%29.jpg)](14%20-%20Fratelli%20Lumi%C3%A8res.%20Cinematografo%20%281895%29.jpg)
+[![Fratelli Lumières. Cinematografo (1895)](14%20-%20Fratelli%20Lumi%C3%A8res.%20Cinematografo%20%281895%29.png)](14%20-%20Fratelli%20Lumi%C3%A8res.%20Cinematografo%20%281895%29.png)
 
 ### Carl Benz. Benz Velo (1894)
 
