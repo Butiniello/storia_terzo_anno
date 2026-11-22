@@ -54,7 +54,7 @@
 
 ### Macchina fotografica nel XIX secolo
 
-[![Macchina fotografica nel XIX secolo](13%20-%20Macchina%20fotografica%20nel%20XIX%20secolo.avif)](13%20-%20Macchina%20fotografica%20nel%20XIX%20secolo.avif)
+[![Macchina fotografica nel XIX secolo](13%20-%20Macchina%20fotografica%20nel%20XIX%20secolo.jpg)](13%20-%20Macchina%20fotografica%20nel%20XIX%20secolo.jpg)
 
 ### Fratelli Lumières. Cinematografo (1895)
 
@@ -63,3 +63,7 @@
 ### Carl Benz. Benz Velo (1894)
 
 [![Carl Benz. Benz Velo (1894)](16%20-%20Carl%20Benz.%20Benz%20Velo%20%281894%29.jpg)](16%20-%20Carl%20Benz.%20Benz%20Velo%20%281894%29.jpg)
+
+## Video
+
+- [Auguste & Louis Lumière - Innaffiatore innaffiato (MP4)](15%20-%20Auguste%20%26%20Louis%20Lumi%C3%A8re%20-%20Innaffiatore%20innaffiato.mp4)
