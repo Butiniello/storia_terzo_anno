@@ -1,4 +1,4 @@
-# 07 - Seconda rivoluzione industriale e questione operaia
+# 08 - Seconda rivoluzione industriale e questione operaia
 
 [⬅ Torna all'indice](../README.md)
 

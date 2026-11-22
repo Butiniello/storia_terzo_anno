@@ -4,9 +4,9 @@
 
 ## Immagini
 
-### Italia tassa sul macinato
+### Italia tassa sul macinato (1869)
 
-[![Italia tassa sul macinato](01%20-%20Italia%20tassa%20sul%20macinato.jpg)](01%20-%20Italia%20tassa%20sul%20macinato.jpg)
+[![Italia tassa sul macinato (1869)](01%20-%20Italia%20tassa%20sul%20macinato%20%281869%29.jpg)](01%20-%20Italia%20tassa%20sul%20macinato%20%281869%29.jpg)
 
 ### Pio IX contro l'Unità
 

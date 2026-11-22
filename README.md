@@ -11,4 +11,5 @@ Materiali didattici di storia per il terzo anno, organizzati per capitolo.
 - [04 - La seconda Guerra di Indipendenza](04%20-%20La%20seconda%20Guerra%20di%20Indipendenza/)
 - [05 - L'unità d'Italia e la Germania di Bismark](05%20-%20L%27unit%C3%A0%20d%27Italia%20e%20la%20Germania%20di%20Bismark/)
 - [06 - I primi passi del Regno di Italia. Destra e Sinistra storica](06%20-%20I%20primi%20passi%20del%20Regno%20di%20Italia.%20Destra%20e%20Sinistra%20storica/)
-- [07 - Seconda rivoluzione industriale e questione operaia](07%20-%20Seconda%20rivoluzione%20industriale%20e%20questione%20operaia/)
+- [07 - La Seconda rivoluzione industriale](07%20-%20La%20Seconda%20rivoluzione%20industriale/)
+- [08 - Seconda rivoluzione industriale e questione operaia](08%20-%20Seconda%20rivoluzione%20industriale%20e%20questione%20operaia/)
