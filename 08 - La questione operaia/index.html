@@ -17,12 +17,13 @@ a.btn{display:inline-block;background:var(--ac);color:var(--bg);padding:.6rem 1r
 .grid img{width:100%;height:190px;object-fit:contain;background:#0001;border-radius:6px}
 .grid figcaption{font-size:.9rem;margin-top:.4rem}
 </style></head><body><main><p><a href='../index.html'>⬅ Torna all'indice</a></p><h1>08 - La questione operaia</h1><h2>Immagini</h2><div class='grid'><figure><a href='01%20-%20Luddismo.jpg'><img loading='lazy' src='01%20-%20Luddismo.jpg' alt='Luddismo'></a><figcaption>Luddismo</figcaption></figure><figure><a href='02%20-%20Karl%20Marx.png'><img loading='lazy' src='02%20-%20Karl%20Marx.png' alt='Karl Marx'></a><figcaption>Karl Marx</figcaption></figure><figure><a href='03%20-%20Friedrich%20Engels.jpg'><img loading='lazy' src='03%20-%20Friedrich%20Engels.jpg' alt='Friedrich Engels'></a><figcaption>Friedrich Engels</figcaption></figure><figure><a href='04%20-%20I%20simboli%20del%20Comunismo.png'><img loading='lazy' src='04%20-%20I%20simboli%20del%20Comunismo.png' alt='I simboli del Comunismo'></a><figcaption>I simboli del Comunismo</figcaption></figure><figure><a href='05%20-%20Proletari%20di%20tutto%20il%20mondo%20unitevi.png'><img loading='lazy' src='05%20-%20Proletari%20di%20tutto%20il%20mondo%20unitevi.png' alt='Proletari di tutto il mondo unitevi'></a><figcaption>Proletari di tutto il mondo unitevi</figcaption></figure><figure><a href='06%20-%20Numero%20speciale%20Gl%C3%BChlichter%206.6.1904.jpg'><img loading='lazy' src='06%20-%20Numero%20speciale%20Gl%C3%BChlichter%206.6.1904.jpg' alt='Numero speciale Glühlichter 6.6.1904'></a><figcaption>Numero speciale Glühlichter 6.6.1904</figcaption></figure><figure data-desc='Vignetta satirica pubblicata dalla rivista britannica Punch nel 1843. In alto i ricchi vivono nell&#x27;ozio e nel lusso, serviti e circondati di comodità; in basso, nel sottosuolo, uomini, donne e bambini sfiniti lavorano e vivono nella miseria. A sinistra la Speranza, con la sua àncora, resta chiusa fuori dalla porta. Denuncia lo sfruttamento del lavoro, anche minorile, nelle miniere britanniche, oggetto di un&#x27;inchiesta ufficiale nel 1842.'><a href='07%20-%20Capitale%20e%20lavoro.%20La%20Speranza%20chiusa%20fuori%20%28Rivista%20Punch%201843%29.png'><img loading='lazy' src='07%20-%20Capitale%20e%20lavoro.%20La%20Speranza%20chiusa%20fuori%20%28Rivista%20Punch%201843%29.png' alt='Capitale e lavoro. La Speranza chiusa fuori (Rivista Punch 1843)'></a><figcaption>Capitale e lavoro. La Speranza chiusa fuori (Rivista Punch 1843)</figcaption></figure><figure><a href='08%20-%20Incipit%20Manifesto%20Partito%20comunista.jpg'><img loading='lazy' src='08%20-%20Incipit%20Manifesto%20Partito%20comunista.jpg' alt='Incipit Manifesto Partito comunista'></a><figcaption>Incipit Manifesto Partito comunista</figcaption></figure></div></main><!--LIGHTBOX--><style>
-#lb{position:fixed;inset:0;background:rgba(0,0,0,.97);display:none;z-index:99;align-items:center;justify-content:center;flex-direction:column}
+#lb{position:fixed;inset:0;background:#000;display:none;z-index:99;align-items:center;justify-content:center;flex-direction:column}
 #lb.on{display:flex}
 #lb img{max-width:96vw;max-height:86vh;object-fit:contain;user-select:none}
 #lb .cap{color:#ececec;margin-top:.4rem;font-size:.9rem;text-align:center;padding:0 3rem}
 #lb .dsc{position:absolute;left:50%;bottom:4.2rem;transform:translateX(-50%);width:min(92vw,760px);max-height:55vh;overflow:auto;background:#111f;border:1px solid #666;border-radius:10px;color:#e6e6e6;font-size:1rem;line-height:1.5;padding:1rem 1.2rem;display:none;box-shadow:0 8px 30px #000}
 #lb .dsc.on{display:block}
+@media(min-width:801px){#lb.side{padding-right:370px}#lb.side img{max-width:calc(100vw - 420px)}#lb .dsc{left:auto;right:1rem;bottom:auto;top:4.5rem;transform:none;width:340px;max-height:calc(100vh - 9rem);font-size:1.02rem}}
 #lb .ctx{left:.6rem;top:.6rem;width:auto;height:auto;font-size:.95rem;padding:.55rem .9rem;display:none}
 #lb .ctx.on{display:block}
 #lb .cnt{color:#aaa;font-size:.8rem;margin-top:.2rem}
@@ -33,15 +34,15 @@ a.btn{display:inline-block;background:var(--ac);color:var(--bg);padding:.6rem 1r
 <script>
 (function(){var L=[].slice.call(document.querySelectorAll('.grid figure a'));if(!L.length)return;
 var lb=document.getElementById('lb'),im=lb.querySelector('img'),cp=lb.querySelector('.cap'),ct=lb.querySelector('.cnt'),ds=lb.querySelector('.dsc'),cx=lb.querySelector('.ctx'),i=0;
-function show(k){i=(k+L.length)%L.length;im.src=L[i].href;cp.textContent=L[i].parentNode.querySelector('figcaption').textContent;var d=L[i].parentNode.getAttribute('data-desc')||'';ds.textContent=d;ds.classList.remove('on');cx.classList.toggle('on',!!d);cx.textContent='Contesto';ct.textContent=(i+1)+' / '+L.length;
+function show(k){i=(k+L.length)%L.length;im.src=L[i].href;cp.textContent=L[i].parentNode.querySelector('figcaption').textContent;var d=L[i].parentNode.getAttribute('data-desc')||'';ds.textContent=d;ds.classList.remove('on');lb.classList.remove('side');cx.classList.toggle('on',!!d);cx.textContent='Contesto';ct.textContent=(i+1)+' / '+L.length;
 [1,-1].forEach(function(d){new Image().src=L[(i+d+L.length)%L.length].href})}
 function open(k){show(k);lb.classList.add('on');document.body.style.overflow='hidden'}
-function close(){lb.classList.remove('on');document.body.style.overflow='';im.src=''}
+function close(){lb.classList.remove('on');lb.classList.remove('side');document.body.style.overflow='';im.src=''}
 L.forEach(function(a,k){a.addEventListener('click',function(e){e.preventDefault();open(k)})});
 lb.querySelector('.p').onclick=function(e){e.stopPropagation();show(i-1)};
 lb.querySelector('.n').onclick=function(e){e.stopPropagation();show(i+1)};
 lb.querySelector('.x').onclick=close;
-function tg(){var o=ds.classList.toggle('on');cx.textContent=o?'Nascondi contesto':'Contesto'}
+function tg(){var o=ds.classList.toggle('on');lb.classList.toggle('side',o);cx.textContent=o?'Nascondi contesto':'Contesto'}
 cx.onclick=function(e){e.stopPropagation();tg()};ds.onclick=function(e){e.stopPropagation();tg()};
 lb.addEventListener('click',function(e){if(e.target===lb)close()});
 document.addEventListener('keydown',function(e){if(!lb.classList.contains('on'))return;
