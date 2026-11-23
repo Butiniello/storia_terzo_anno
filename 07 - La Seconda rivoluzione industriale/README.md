@@ -94,6 +94,18 @@ Manifesto pubblicitario del Cinématographe dei fratelli Lumière. La prima proi
 
 La Benz Velo del 1894 è considerata la prima automobile prodotta in serie, con più di mille esemplari costruiti. L'automobile con motore a scoppio, nata dalle ricerche di Karl Benz e di altri inventori, apre la strada alla mobilità di massa.
 
+### Aereo fratelli Wright (1902)
+
+[![Aereo fratelli Wright (1902)](17%20-%20Aereo%20fratelli%20Wright%20%281902%29.jpg)](17%20-%20Aereo%20fratelli%20Wright%20%281902%29.jpg)
+
+Una prova di volo dei fratelli Wright nel 1902: l'apparecchio ripreso in questa foto è un aliante, senza motore, con cui Wilbur e Orville Wright perfezionarono il controllo del volo a Kitty Hawk, in Nord Carolina. Il primo volo con un velivolo a motore ebbe luogo il 17 dicembre 1903.
+
+### Cibo in scatola
+
+[![Cibo in scatola](18%20-%20Cibo%20in%20scatola.png)](18%20-%20Cibo%20in%20scatola.png)
+
+Lattine di frutta e sciroppo con le etichette d'epoca. La conservazione degli alimenti in contenitori ermetici nasce all'inizio dell'Ottocento (Nicolas Appert, 1809) e con la scatola di latta (brevettata in Inghilterra nel 1810) si diffonde nel secolo con l'industria: cibo conservabile a lungo e trasportabile a basso costo, utile agli eserciti, ai marinai e alle popolazioni delle città.
+
 ## Video
 
 - [Auguste & Louis Lumière - Innaffiatore innaffiato (MP4)](15%20-%20Auguste%20%26%20Louis%20Lumi%C3%A8re%20-%20Innaffiatore%20innaffiato.mp4)
