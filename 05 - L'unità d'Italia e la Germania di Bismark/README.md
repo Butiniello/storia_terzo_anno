@@ -40,6 +40,10 @@
 
 [![Giornale breccia Porta Pia (20.09.1870)](08%20-%20Giornale%20breccia%20Porta%20Pia%20%2820.09.1870%29.jpg)](08%20-%20Giornale%20breccia%20Porta%20Pia%20%2820.09.1870%29.jpg)
 
+### Breccia di Porta Pia
+
+[![Breccia di Porta Pia](09%20-%20Breccia%20di%20Porta%20Pia.jpg)](09%20-%20Breccia%20di%20Porta%20Pia.jpg)
+
 ### Secondo Reich (1871-1918)
 
-[![Secondo Reich (1871-1918)](09%20-%20Secondo%20Reich%20%281871-1918%29.png)](09%20-%20Secondo%20Reich%20%281871-1918%29.png)
+[![Secondo Reich (1871-1918)](10%20-%20Secondo%20Reich%20%281871-1918%29.png)](10%20-%20Secondo%20Reich%20%281871-1918%29.png)
